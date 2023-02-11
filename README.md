@@ -31,15 +31,19 @@ v0.4 Update
 
     What's coming in this update:
 
-        -
+        -Buttons in option menu changed style(hover)
+        -Icon added for the game
+        -Main Menu background music added
 
     Comments and upcoming updates:
  
         -Add functionality to "menu" button in pause menu
         -Changing difficulty level(easy, medium and hard)
-        -Add best score yet info on top of the main menu(maybe)
         -Add sound effects 
-        -Add music to main menu (and option to mute it)
+            -Background music
+            -Sound when you loose 
+            -Sound when paddle hits the ball
+        -Add music (and option to mute it)
         -Option to choose background while in game menu
         -Add 3 sec delay for game to start after hitting play
         
